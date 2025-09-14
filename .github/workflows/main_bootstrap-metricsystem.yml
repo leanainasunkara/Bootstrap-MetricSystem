@@ -52,4 +52,4 @@ jobs:
           app-name: 'Bootstrap-MetricSystem'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E2609A5D4F24EBCAF2D0A1F7F771010 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BD0818B351948BDA31E004B8D7FF076 }}
